@@ -14,7 +14,7 @@ ale widziałam, że coś mnie goni. To była taka wilka zielona ryba. Weszłam d
 do ciebie, Tato. Ty czytałeś książkę a mam siedziała na fotelu z laptopem. I jak zaczęłam
 Ci to wszystko opowiadać to drzwi się rozwaliły, i ta wielka ryba mogła chodzić po lądzie
 weszła przez korytarz i ja się Ciebie zapytałam, tato, co to jest za ryba. I ty powiedziałeś
-mi, że ona się nazywa <span>**Fatotesa**<span>.
+mi, że ona się nazywa <span class="fatotesa">Fatotesa<span>.
  
 I później się bardzo zdziwiłam, bo ta ryba do mnie przyszła i otworzyłą bardzo mocno paszcz,
 i ja się bardzo, bardzo bałam, że ona mnie zje. Ale ona mnie nie zjadła tylko zapytała, czy
