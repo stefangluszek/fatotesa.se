@@ -11,7 +11,7 @@ permalink: /about/
 Się obudziłam i pobiegłam do przedszkola i poszłam do tego lasu co się nazywa dungen.
 I w tym lesie było pełno duchów i potworów. Uciekłam od nich i pobiegłam z powrotem do domu,
 ale widziałam, że coś mnie goni. To była taka wilka zielona ryba. Weszłam do domu i przyszłam
-do ciebie, Tato. Ty czytałeś książkę a mam siedziała na fotelu z laptopem. I jak zaczęłam
+do ciebie, Tato. Ty czytałeś książkę a mama siedziała na fotelu z laptopem. I jak zaczęłam
 Ci to wszystko opowiadać to drzwi się rozwaliły, i ta wielka ryba mogła chodzić po lądzie
 weszła przez korytarz i ja się Ciebie zapytałam, tato, co to jest za ryba. I ty powiedziałeś
 mi, że ona się nazywa <span class="fatotesa">Fatotesa<span>.
