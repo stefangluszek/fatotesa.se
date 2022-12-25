@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Fatotesa](assets/images/Fatotesa.png)
+![Fatotesa](assets/images/original.jpg)
 
 <span class="about">
 Śniło mi się, że ...
@@ -30,3 +30,5 @@ chyba pomógł, żebym się nie bała potworów.
 <span class="about">
 /Malina
 </span>
+
+![Fatotesa](assets/images/Fatotesa.png)
