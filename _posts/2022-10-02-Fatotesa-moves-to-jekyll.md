@@ -3,7 +3,7 @@ layout: post
 title: "Fatotesa ❤️ Jekyll"
 ---
 
-[![Fatotesa](/assets/images/Fatotesa.png)](https://fatotesa.se)
+[![Fatotesa](/assets/images/Fatotesa.png)](https://stefangluszek.github.io/fatotesa.se)
 
 <center>
 <h1>

@@ -22,7 +22,7 @@ title: FATOTESA
 description: >- # this means to ignore newlines until "baseurl:"
   FATOTESA
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://fatotesa.se" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://stefangluszek.github.io/fatotesa.se" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: stefangluszek
 show_excerpts: true
 
