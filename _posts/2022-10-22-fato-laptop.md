@@ -3,4 +3,4 @@ layout: post
 title: "Fato-💻"
 ---
 
-![Fato-💻](/assets/images/fato-laptop.jpg "Fato-💻")
+![Fato-💻](/fatotesa.se/assets/images/fato-laptop.jpg "Fato-💻")
